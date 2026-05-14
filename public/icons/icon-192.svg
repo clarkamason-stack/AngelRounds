@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" role="img" aria-label="Guardian Angel Rounds">
+  <rect width="192" height="192" rx="42" fill="#FFFDF7"/>
+  <circle cx="96" cy="96" r="52" fill="#14B8A6"/>
+  <path d="M57 92c-21-8-33-1-38 16 22 1 39-5 51-19-2 14 3 29 15 41-25-3-47 4-63 20 38 13 69 5 92-24 12 13 30 22 56 24-15-16-37-23-63-20 12-12 17-27 15-41 12 14 29 20 51 19-5-17-17-24-38-16-17-25-61-25-78 0Z" fill="#FFFFFF" opacity=".92"/>
+  <path d="M73 65c0-12 46-12 46 0 0 10-46 10-46 0Z" fill="none" stroke="#F6D878" stroke-width="9" stroke-linecap="round"/>
+  <path d="M84 101l9 9 19-24" fill="none" stroke="#18312F" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
